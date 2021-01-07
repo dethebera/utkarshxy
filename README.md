@@ -1,1 +1,1 @@
-### <span style="color:orange"> Before we start, The various expressions and explanations listed below are my own, Information provided for Bitcoin and It's regulations for mining depends on the geographic location. This is just a simple code which explains how it is done and also a simple guide for everyone who just wants to learn what this is about, because just entering 2021 bitcoin has become the most valued cryptocurrency ever created! 
+## Kaggle 3x Expert | [LinkedIn](https://www.linkedin.com/in/utkarshssharma/) |
