@@ -16,4 +16,4 @@ I mostly use github for storing my various projects.
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
-
+![R](https://img.shields.io/badge/R-__-blue)
