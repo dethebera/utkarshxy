@@ -12,7 +12,7 @@ I mostly use github for storing my various projects.
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
